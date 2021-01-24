@@ -9,8 +9,8 @@ Anyone and everyone is free to use this for educational/self learning purposes l
 
 The reason for using Dummy data/Sample codes is obvious: 
 
-I, Kshitij Bansal cannot add any of the data/codes used in my Data Science work experience here. 
+I cannot add any of the data/codes used in my Data Science work experience here. 
 
 I have worked with Major Global BFSI Clients - Banks, Payment Technology companies & Insurers as part of my experience with a Big4 Consulting Firm. 
 
-Hence, respect and adhere to my responsiblities of Data security & confidentiality for the same.
+Hence, respecting and adhering to my responsiblities of Data security & confidentiality for the same.
